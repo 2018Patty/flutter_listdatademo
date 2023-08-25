@@ -4,6 +4,10 @@
 
 <img src='assets/images/listdata.png' width='300px'>
 
+## List Data with Function
+
+<img src='assets/images/listdataFinished.png' width='300px'>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

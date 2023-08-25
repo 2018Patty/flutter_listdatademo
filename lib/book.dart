@@ -2,6 +2,7 @@ class Book {
   //Define Properties
   String name = '';
   String author = '';
+  String cover = '';
 
   //Old Style Constructor
   // Book(String n, String a) {
@@ -10,5 +11,5 @@ class Book {
   // }
 
   //Constructor
-  Book({required this.name, required this.author});
+  Book({required this.name, required this.author, required this.cover});
 }
